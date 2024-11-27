@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import './MyData.css';  // Importing the newly created CSS file
+import './MyData.css';
 
 function MyData() {
     const [users, setUsers] = useState([]);
